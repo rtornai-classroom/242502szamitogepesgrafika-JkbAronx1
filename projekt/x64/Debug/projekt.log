@@ -1,0 +1,4 @@
+﻿  projekt.cpp
+C:\Users\aron7\Documents\prog\projekt\projekt\projekt.cpp(134,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\aron7\Documents\prog\projekt\projekt\projekt.cpp(253,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  projekt.vcxproj -> C:\Users\aron7\Documents\prog\projekt\x64\Debug\projekt.exe
